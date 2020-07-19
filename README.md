@@ -16,7 +16,7 @@
     * 大部分内容都在`index.html`里面进行修改
     * “在一起”的时间修改在`./js/lovetime.js`里，已进行代码备注
     * 首页标题修改在`./js/talk.js`里，修改对应文字即可
-    * 背景图都在`./css/lovexhj.css`里进行修改
+    * 背景图都在`./css/lovelyh.css`里进行修改
 
 * 注意
     * 原网站首页加载的是视频，但是因为在QQ中打开会自动打开视频无法进入网页，我无法解决这个问题所以取消了视频改成了图片，但是视频依然在`./images/bg1.mp4`里，如有大佬知道怎么解决可以教教我(#^.^#)
@@ -25,9 +25,6 @@
 
 > 预览
 
-懒得放图了，直接进入我的网站吧 >> [lovexhj.cn](https://lovexhj.cn)
+懒得放图了，直接进入我的网站吧 >> [lovexhj.xyz](https://www.520.lovexhj.xyz)
    
 > 开发不易，如果喜欢就点个小星星吧
-
-+ 我的主页：[Nutssss](https://nutssss.cn/)
-+ 我的博客：[NutssssBlog](https://blog.nutssss.cn/)
